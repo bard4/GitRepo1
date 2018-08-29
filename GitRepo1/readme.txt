@@ -1,1 +1,2 @@
 zmiana
+edycja readme.txt
